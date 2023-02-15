@@ -15,4 +15,4 @@ The purpose of this project is to produce a digital currency that can scale like
 
 We are putting together a team to do something historic.
 
-Contact: wmcorless@gmai;.com
+Contact: wmcorless@gmail.com
